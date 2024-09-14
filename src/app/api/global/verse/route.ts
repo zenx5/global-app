@@ -1,4 +1,4 @@
-import { NextRequest, NextResponse } from "next/server";
+import { NextResponse } from "next/server";
 import bible from "./../../../../tools/es_rvr.json"
 
 export async function GET() {
